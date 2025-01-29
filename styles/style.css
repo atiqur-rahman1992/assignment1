@@ -178,9 +178,10 @@ section{
     margin: 200px;
 }
 .div15{
-    width: 744px;
-    height: 400px;
+    /* width: 744px;
+    height: 400px; */
     margin:200px ;
+    border-radius: 18px;
 }
 .container2{
     
@@ -189,7 +190,7 @@ section{
     margin: 160px;
     background-color:white;
     box-shadow: 1px 2px 4px black;
-    width: 100%;
+    border-radius: 18px;
 }
 .h11{
     text-align: center;
