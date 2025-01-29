@@ -183,14 +183,13 @@ section{
     margin:200px ;
 }
 .container2{
-  
     
     display: flex;
     justify-content: space-around;
     margin: 160px;
     background-color:white;
     box-shadow: 1px 2px 4px black;
-    height: auto;
+    height: 800px;
 }
 .h11{
     text-align: center;
