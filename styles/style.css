@@ -49,6 +49,7 @@ h4{
     font-weight: bold;
 }
 .part1{
+
     display:flex;
     justify-content: center;
 }
