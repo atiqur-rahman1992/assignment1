@@ -157,7 +157,7 @@ main{
     height: 256px;
     text-align:left;
     margin-left: 200px;
-    background-image: url(../images/assets/quote-bg.png);
+    background-image: url(../images/quote-bg.png);
     background-repeat: no-repeat;
     margin-left: 350px;
 }
@@ -213,6 +213,7 @@ section{
 .container3{
     display: flex;
   justify-content: center;
+  align-items: center;
 }
 .div22{
     background-color: #AAC4EF;
@@ -225,9 +226,9 @@ section{
 }
 .input1{
     width: 1400px;
-    height: 64px;
+    height: 40px;
     padding: 40px;
-    margin-left: 300px;
+    margin-left: 200px;
     margin-top: 50px;
     box-shadow: 1px 2px 4px black;
 }
@@ -241,6 +242,7 @@ section{
     background-color: #C6E4D6;
     text-align: center;
     margin: 0 auto;
+    border-radius: 24px;
 }
 .input2{
     width: 805px;
